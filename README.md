@@ -1,10 +1,6 @@
-
-#Tiki E-commerce Product Ingestion Data Pipeline
+# Tiki E-commerce Product Ingestion Data Pipeline
 
 High-throughput asynchronous data ingestion pipeline designed to process 200,000 product records from Tiki's public API using a modular ETL architecture.
-
----
-
 ## Project Overview
 
 This project demonstrates a scalable API ingestion system built with:
